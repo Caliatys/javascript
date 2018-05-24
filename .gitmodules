@@ -1,3 +1,6 @@
 [submodule "array_typer"]
 	path = array_typer
 	url = git@github.com:FranzStrudel/-caliatys-array-typer.git
+[submodule "ObjectHelper"]
+	path = ObjectHelper
+	url = git@github.com:Caliatys/ObjectHelper.git
