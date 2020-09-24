@@ -1,6 +1,15 @@
 [submodule "array_typer"]
 	path = array_typer
 	url = git@github.com:FranzStrudel/-caliatys-array-typer.git
+[submodule "CognitoService"]
+	path = CognitoService
+	url = git@github.com:NicolasRoehm/CognitoService.git
+[submodule "S3Service"]
+	path = S3Service
+	url = git@github.com:NicolasRoehm/S3Service.git
+[submodule "LoginComponent"]
+	path = LoginComponent
+	url = git@github.com:NicolasRoehm/LoginComponent.git
 [submodule "ObjectHelper"]
 	path = ObjectHelper
-	url = git@github.com:Caliatys/ObjectHelper.git
+	url = git@github.com:NicolasRoehm/ObjectHelper.git
